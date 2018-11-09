@@ -1,0 +1,7 @@
+*{
+  text-align: center;
+}
+
+nav a, nav p{
+  display: inline-block;
+}
